@@ -1,0 +1,62 @@
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\Programa_multas.exe.config
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\Programa_multas.exe
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\Programa_multas.pdb
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\Programa_multas.xml
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\Guna.UI.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.vbprojResolveAssemblyReference.cache
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Form1.resources
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Resources.resources
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.vbproj.GenerateResource.Cache
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.exe
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.xml
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.pdb
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Consultas.resources
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Buscar_Reporte_por_placa.resources
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Form2.resources
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.MENU.resources
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\RdlCompile.cache
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\RdlCompile.compiled
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+c:\users\tf\onedrive\documentos\visual studio 2015\Projects\Programa_multas\Programa_multas\obj\Debug\Programa_multas.REPORTE.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\Programa_multas.exe.config
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.exe
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.xml
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.pdb
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\Programa_multas.exe
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\Programa_multas.pdb
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\Programa_multas.xml
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.vbprojResolveAssemblyReference.cache
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Buscar_Reporte_por_placa.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Consultas.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Form1.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Form2.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.MENU.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Resources.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.REPORTE.resources
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.vbproj.GenerateResource.Cache
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\RdlCompile.cache
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\RdlCompile.compiled
+C:\Users\PC01LAB4\Desktop\Programa_multas\Programa_multas\obj\Debug\Programa_multas.Form3.resources
